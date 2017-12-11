@@ -14,8 +14,8 @@ out
 *.lo
 *.o
 *.obj
-*.ipynb_checkpoints
-*/*..ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints
 
 # Compiled Dynamic libraries
 *.so
